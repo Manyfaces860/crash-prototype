@@ -1,0 +1,9 @@
+[submodule "external/JoltPhysics"]
+	path = external/JoltPhysics
+	url = https://github.com/jrouwe/JoltPhysics.git
+[submodule "external/glm"]
+	path = external/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "external/sokol-tools-bin"]
+	path = external/sokol-tools-bin
+	url = https://github.com/floooh/sokol-tools-bin.git

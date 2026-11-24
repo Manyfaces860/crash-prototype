@@ -1,0 +1,6 @@
+build/
+.DS_Store
+
+# local scratch (not part of the project)
+curious.md
+resume.sh
